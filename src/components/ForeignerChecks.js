@@ -5,9 +5,12 @@ function ForeignerChecks() {
     <div className={classes.foreignerChecksText}>
       <p>Source</p>
       <p className={classes.leftText}>
-        Donate with SWIFT <br></br>Company Name:<br></br> CO "INTERNATIONAL
-        CHARITABLE FOUNDATION "COME BACK ALIVE"<br></br> Office address: 32,
-        Bohdana Hmelnytskoho St., office 41, Kyiv
+        <h3 className={classes.foreignerSwiftTitle}>
+          Donate with SWIFT
+        </h3>
+        <br></br>Company Name:<br></br> CO "INTERNATIONAL CHARITABLE FOUNDATION
+        "COME BACK ALIVE"<br></br> Office address: 32, Bohdana Hmelnytskoho St.,
+        office 41, Kyiv
       </p>
       <div className={classes.foreignerChecksGrid}>
         <p>

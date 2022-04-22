@@ -8,3 +8,13 @@
     filter: drop-shadow(4.54px 8.91px 4px rgba(0,0,0,0.36));
     width: 194px;
 }
+@media only screen
+and (min-width: 0)
+and (max-width: 1025px){
+    .image{
+        width: 130px;
+    }
+    .logo{
+        margin: 0 0 0 -65px;
+    }
+}

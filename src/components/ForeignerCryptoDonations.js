@@ -6,8 +6,8 @@ function ForeignerCryptoDonations() {
       <p>Number: bc1qkd5az2ml7dk5j5h672yhxmhmxe9tuf97j39fm6</p>
       <p>
         Donate with ETHEREUM (eth, usdt, usdc)
-        <br></br>Wallet address: 0xa1b1bbB8070Df2450810b8eB2425D543cfCeF79b
-        <br></br> 0x93Bda139023d582C19D70F55561f232D3CA6a54c
+        <br></br>Wallet address: 0xa1b1bbB8070Df2450810b8 eB2425D543cfCeF79b
+        <br></br> 0x93Bda139023d582C19 D70F55561f232D3CA6a54c
       </p>
       <p>
         Donate with TRC20 (tether)<br></br>Wallet address:

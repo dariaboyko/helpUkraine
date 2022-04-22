@@ -5,9 +5,9 @@ function UkrainianSupport(){
     return (
       <div className={classes.text}>
         <p>Підтримати команду фонду Повернись живим</p>
-        <p>Підтримати армію з карти будь-якого банку​</p>
-        <SupportCrew />
-        <SupportArmy />
+        <p className={classes.supportArmyText}>Підтримати армію з карти будь-якого банку​</p>
+        <SupportCrew className={classes.supportCrew} />
+        <SupportArmy className={classes.supportArmy} />
       </div>
     );
 }

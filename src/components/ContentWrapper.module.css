@@ -7,3 +7,11 @@
     position: relative;
     min-height: 70vh;
 }
+
+@media only screen
+and (min-width: 0)
+and (max-width: 1025px){
+    .wrapper{
+    padding: 0 0 100px 0;
+    }
+}

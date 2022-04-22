@@ -1,4 +1,5 @@
 import InlineSVG from "svg-inline-react";
+import classes from "./UkrainianSupport.module.css";
 function SupportCrew() {
     const svgSourceCrew = `<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="141" height="64" viewBox="0 0 141 64" fill="none">
 <rect width="141" height="64" fill="url(#pattern45550)"/>

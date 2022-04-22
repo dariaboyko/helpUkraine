@@ -12,3 +12,14 @@
     flex-direction: column;
     gap: 100px;
 }
+@media only screen
+and (min-width: 0)
+and (max-width: 1025px){
+    .link{
+        font-size: 30px;
+    }
+    .navigation{
+        margin: 50px 0 100px;
+        gap: 50px;
+    }
+}

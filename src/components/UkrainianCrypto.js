@@ -11,8 +11,8 @@ function UkrainianCrypto(){
         </p>
         <p>
           Donate with ETHEREUM (eth, usdt, usdc)
-          <br></br>Wallet address: 0xa1b1bbB8070Df2450810b8eB2425D543cfCeF79b
-          0x93Bda139023d582C19D70F55561f232D3CA6a54c
+          <br></br>Wallet address: 0xa1b1bbB8070Df24508 10b8eB2425D543cfCeF79b
+          0x93Bda139023d582C1 9D70F55561f232D3CA6a54c
         </p>
         <p>
           Donate with TRC20 (tether)
