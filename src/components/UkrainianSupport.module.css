@@ -1,0 +1,11 @@
+.text{
+    font-size: 24px;
+    color: #ffbe5b;
+    font-weight: 400;
+    font-family: "Inter";
+    font-style: italic;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-template-rows: 35px 1fr;
+    margin:40px 0 0 0 ;
+}

@@ -1,0 +1,14 @@
+.link{
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 64px;
+    color: #FFBE5B;
+    text-decoration: none;
+}
+.navigation{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    gap: 100px;
+}
